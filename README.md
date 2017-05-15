@@ -2,9 +2,10 @@
 iterate multiple list
 
 there are 3 list
-list1 = [1, 2, 3, 4, 5]
-list2 = [int.__add__, int.__sub__]
-list3 = [7, 6, 5, 4]
+
+    list1 = [1, 2, 3, 4, 5]
+    list2 = [int.__add__, int.__sub__]
+    list3 = [7, 6, 5, 4]
 
     for x in list1:
         for operator in list2:
